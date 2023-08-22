@@ -1,7 +1,7 @@
 # PGWEB-acara1
 Perencanaan produk webGIS dan Git  
 
-Nama: Rindi Tri Setyaningsih
+Nama: Rindi Tri Setyaningsih terserahh
 
 NIM: 22/492498/SV/20521
 
